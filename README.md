@@ -13,12 +13,12 @@ Meet Anansi, a hexapod robot built on the Freenove FNK0052 kit and a Raspberry P
 - Port to ROS 2
 
 ## Progress
-- [x] Leg and servo assembly
-- [ ] Body and electronics
-- [ ] Software setup
+- [x] Leg and Servo Assembly
+- [ ] Body and Electronics
+- [ ] Software Setup
 - [ ] Module tests
-- [ ] Calibration and first walk
-- [ ] Custom features
+- [ ] Calibration and First Walk
+- [ ] Custom Features
 
 ## Build log
 See [/build-log](build-log) for dated entries with photos, notes and lessons learnt.
